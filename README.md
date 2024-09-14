@@ -21,3 +21,5 @@ A YouTube clone built with React, Tailwind CSS, and RapidAPI to replicate some o
 - **Avatar**: A React component library to handle profile avatars.
 
 # Author - Ritinpaul Singh
+
+# Output --![Screenshot 2024-09-08 142107](https://github.com/user-attachments/assets/8baef1ba-bf80-475a-a0b1-7d71cd852f60)
